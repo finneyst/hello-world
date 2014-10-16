@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Testing
+Hi, This is a test of using the GitHub.
